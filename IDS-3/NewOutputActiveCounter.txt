@@ -1,0 +1,2 @@
+Final value of active counter in decimal 996288
+

@@ -1,0 +1,4 @@
+True flow spread: 1000 Estimated flow spread: 925
+True flow spread: 10000 Estimated flow spread: 10555
+True flow spread: 100000 Estimated flow spread: 104608
+True flow spread: 1000000 Estimated flow spread: 1033091

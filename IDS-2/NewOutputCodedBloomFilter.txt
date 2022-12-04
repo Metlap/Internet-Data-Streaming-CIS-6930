@@ -1,0 +1,1 @@
+Number of elements whose lookup results are correct: 6729
